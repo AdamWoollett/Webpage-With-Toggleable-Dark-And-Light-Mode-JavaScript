@@ -11,17 +11,17 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 
 ## Project Structure
 ```
-Webpage-With-Toggleable-Dark-And-Light-Mode-JavaScript/<br>
-└─Images/<br>                                                # Images used in the application.
-├    ├─ 2025-12-03_17.28.56.png<br>
-├    ├─ 440px-Icosahedron.svg-2149149124.png<br>
-├    ├─ E110-Dinnerbone-1920-1080.png<br>
-├    ├─ Silksong-2-1920-1080.png<br>
-├    ├─ Spec-ops-the-line.jpg<br>
-├    ├─ clipart-sun-half-19-1041077959.png<br>
-├    └─ moon.png<br>
-├─ README.md<br>
-├─ index.html<br>
-├─ script.js<br>
-└─ style.css<br>
+Webpage-With-Toggleable-Dark-And-Light-Mode-JavaScript/
+└─Images/                                                # Images used in the application.
+├    ├─ 2025-12-03_17.28.56.png
+├    ├─ 440px-Icosahedron.svg-2149149124.png
+├    ├─ E110-Dinnerbone-1920-1080.png
+├    ├─ Silksong-2-1920-1080.png
+├    ├─ Spec-ops-the-line.jpg
+├    ├─ clipart-sun-half-19-1041077959.png
+├    └─ moon.png
+├─ README.md
+├─ index.html
+├─ script.js
+└─ style.css
 ```

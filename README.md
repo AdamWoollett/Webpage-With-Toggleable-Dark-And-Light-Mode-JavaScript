@@ -21,7 +21,7 @@ Webpage-With-Toggleable-Dark-And-Light-Mode-JavaScript/
 ├    ├─ clipart-sun-half-19-1041077959.png
 ├    └─ moon.png
 ├─ README.md
-├─ index.html
-├─ script.js
-└─ style.css
+├─ index.html                                             # Landing page.
+├─ script.js                                              # Script that manages switching between dark and light modes.
+└─ style.css                                              # Styling for the page.
 ```
